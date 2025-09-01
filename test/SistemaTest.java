@@ -12,6 +12,9 @@ import produto.ProdutoNaoEncontradoException;
 /**
  * Classe de testes unitários para Calculadora e Carrinho
  * Usando JUnit 5
+
+ OBS: Feito com ChatGPT 
+
  */
 public class SistemaTest {
 
