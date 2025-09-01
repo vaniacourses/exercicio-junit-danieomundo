@@ -10,8 +10,11 @@ public class MainTest {
 	
 	private Main jokenpo;
 
-	//@BeforeEach
-	//public void 
+	@BeforeEach
+	public void setup() {
+	jokenpo = new Main();	
+	}
+	
   // obs: ainda não finalizado.
 
   
